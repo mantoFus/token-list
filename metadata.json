@@ -1,0 +1,18 @@
+{
+  "name": "manto MT",
+  "symbol": "MT",
+  "description": "Moneda oficial del Reino manto. Token de gobernanza, tesorer\u00eda y prop\u00f3sito, respaldado por activos reales y sostenibilidad.",
+  "image": "https://raw.githubusercontent.com/mantoFus/token-list/main/assets/mainnet/AF9cpMZ8jo3QCnZ671Hbk13Dhw79vqxUsdy3wAiuNdae/logo.png",
+  "tags": [
+    "utility-token",
+    "dao",
+    "community",
+    "real-world-asset"
+  ],
+  "extensions": {
+    "website": "https://manto.es",
+    "twitter": "https://twitter.com/mantoMTRey",
+    "explorer": "https://solscan.io/token/AF9cpMZ8jo3QCnZ671Hbk13Dhw79vqxUsdy3wAiuNdae",
+    "github": "https://github.com/mantoFus"
+  }
+}
